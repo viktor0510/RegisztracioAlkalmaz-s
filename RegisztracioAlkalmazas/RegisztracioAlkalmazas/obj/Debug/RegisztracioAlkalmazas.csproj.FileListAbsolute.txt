@@ -1,0 +1,10 @@
+E:\teams videók\project\RegisztracioAlkalmazas\RegisztracioAlkalmazas\bin\Debug\RegisztracioAlkalmazas.exe.config
+E:\teams videók\project\RegisztracioAlkalmazas\RegisztracioAlkalmazas\bin\Debug\RegisztracioAlkalmazas.exe
+E:\teams videók\project\RegisztracioAlkalmazas\RegisztracioAlkalmazas\bin\Debug\RegisztracioAlkalmazas.pdb
+E:\teams videók\project\RegisztracioAlkalmazas\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.csprojAssemblyReference.cache
+E:\teams videók\project\RegisztracioAlkalmazas\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.Properties.Resources.resources
+E:\teams videók\project\RegisztracioAlkalmazas\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.csproj.GenerateResource.cache
+E:\teams videók\project\RegisztracioAlkalmazas\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.csproj.CoreCompileInputs.cache
+E:\teams videók\project\RegisztracioAlkalmazas\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.exe
+E:\teams videók\project\RegisztracioAlkalmazas\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.pdb
+E:\teams videók\project\RegisztracioAlkalmazas\RegisztracioAlkalmazas\obj\Debug\RegisztracioAlkalmazas.Form1.resources
